@@ -1,0 +1,58 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	color: #3eb99b;
+}
+
+p {
+	color: #3eb99b;
+}
+
+/* Top Bar with Logo */
+
+#cover {
+	background-color: #3eb99b;
+}
+
+#cover img {
+	padding: 40px 0 40px 0;
+}
+
+/* Widgets */
+
+#widgets {
+	color: #232323;
+}
+
+.widget {
+	max-width: 600px;
+	margin-top: 50px;
+	margin: 60px auto 30px auto;
+}
+
+#widgets h2 {
+	margin-top: 15px;
+}
+
+/* Lists */
+
+#names {
+	list-style: none;
+}
+
+#names li {
+	background-color: #3eb99b;
+	border-radius: 100px;
+	display: inline-block;
+	padding: 20px 20px 20px 20px;
+	margin: 5px;s
+}
+
+.addition {
+	width: 20px;
+}

@@ -1,0 +1,9 @@
+Images:
+
+cover-image - https://www.pexels.com/photo/apartment-architecture-chairs-comfort-269218/
+
+icons - http://aiconica.net/
+
+itunes badge - https://www.apple.com/itunes/marketing-on-itunes/identity-guidelines.html#itunes-badge
+
+google playstore badge - https://play.google.com/intl/en_us/badges/

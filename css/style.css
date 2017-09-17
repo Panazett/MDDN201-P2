@@ -42,11 +42,22 @@ a {
 .tokens {
 	display: inline-block;
 	width: 300px;
-	margin: 60px 40px 60px 40px;
-	height: 300px;
+	margin: 60px 40px 0px 40px;
+	height: 500px;
 }
 
 .tokens h2, .tokens p {
+	margin-top: 20px;
+}
+
+.tokens2 {
+	display: inline-block;
+	max-width: 800px;
+	margin: 0px 40px 60px 0px;
+	height: 200px;
+}
+
+.tokens2 h2, .tokens2 p {
 	margin-top: 20px;
 }
 
